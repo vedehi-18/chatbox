@@ -1,5 +1,5 @@
 
-groq_api_key=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
+
 import os
 import streamlit as st
 from groq import Groq
